@@ -1,0 +1,4 @@
+Requirements:
+1) Visual Studio code 
+2) Chrome or any Browser 
+3) laptop with at least with 4gb ram
